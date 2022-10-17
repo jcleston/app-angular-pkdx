@@ -35,6 +35,11 @@ Para iniciar o serviço
 $ ng s -o
 ```
 
+Para criar um Component
+```shell
+$ ng generate component pokemon-list
+```
+
 <h4 align="right">
 
 [Voltar para o Menu Geral](#menu-geral)
