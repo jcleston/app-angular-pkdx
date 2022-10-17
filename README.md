@@ -37,7 +37,7 @@ $ ng s -o
 
 Para criar um Component
 ```shell
-$ ng generate component pokemon-list
+$ ng g c nome_component
 ```
 
 <h4 align="right">
